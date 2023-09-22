@@ -5,13 +5,23 @@
       <sourceFolder url="file://$MODULE_DIR$/a03/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/a04/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/a05/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/a06/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/a07/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/b03/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/b04/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/b05/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/b06/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/b07/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/a03/target" />
       <excludeFolder url="file://$MODULE_DIR$/a04/target" />
       <excludeFolder url="file://$MODULE_DIR$/a05/target" />
+      <excludeFolder url="file://$MODULE_DIR$/a06/target" />
+      <excludeFolder url="file://$MODULE_DIR$/a07/target" />
       <excludeFolder url="file://$MODULE_DIR$/b03/target" />
       <excludeFolder url="file://$MODULE_DIR$/b04/target" />
+      <excludeFolder url="file://$MODULE_DIR$/b05/target" />
+      <excludeFolder url="file://$MODULE_DIR$/b06/target" />
+      <excludeFolder url="file://$MODULE_DIR$/b07/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

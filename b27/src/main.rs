@@ -6,7 +6,9 @@ fn main() {
         b:i64,
     }
 
-    println!("{}", gcd(a, b));
+    let ans = a * b / gcd(a, b);
+
+    println!("{}", ans);
 }
 
 fn gcd(x: i64, y: i64) -> i64 {

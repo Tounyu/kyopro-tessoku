@@ -44,6 +44,17 @@
       <sourceFolder url="file://$MODULE_DIR$/a24/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/a25/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/a26/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/a27/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/a28/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/a29/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/a30/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/a31/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/a32/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/b27/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/b28/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/b29/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/b30/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/b32/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/a03/target" />
       <excludeFolder url="file://$MODULE_DIR$/a04/target" />
       <excludeFolder url="file://$MODULE_DIR$/a05/target" />
@@ -86,6 +97,17 @@
       <excludeFolder url="file://$MODULE_DIR$/a24/target" />
       <excludeFolder url="file://$MODULE_DIR$/a25/target" />
       <excludeFolder url="file://$MODULE_DIR$/a26/target" />
+      <excludeFolder url="file://$MODULE_DIR$/a27/target" />
+      <excludeFolder url="file://$MODULE_DIR$/a28/target" />
+      <excludeFolder url="file://$MODULE_DIR$/a29/target" />
+      <excludeFolder url="file://$MODULE_DIR$/a30/target" />
+      <excludeFolder url="file://$MODULE_DIR$/a31/target" />
+      <excludeFolder url="file://$MODULE_DIR$/a32/target" />
+      <excludeFolder url="file://$MODULE_DIR$/b27/target" />
+      <excludeFolder url="file://$MODULE_DIR$/b28/target" />
+      <excludeFolder url="file://$MODULE_DIR$/b29/target" />
+      <excludeFolder url="file://$MODULE_DIR$/b30/target" />
+      <excludeFolder url="file://$MODULE_DIR$/b32/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

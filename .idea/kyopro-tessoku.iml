@@ -53,6 +53,8 @@
       <sourceFolder url="file://$MODULE_DIR$/a33/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/a34/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/a35/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/a36/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/a37/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/b27/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/b28/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/b29/src" isTestSource="false" />
@@ -60,6 +62,8 @@
       <sourceFolder url="file://$MODULE_DIR$/b32/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/b33/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/b34/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/b36/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/b37/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/a03/target" />
       <excludeFolder url="file://$MODULE_DIR$/a04/target" />
       <excludeFolder url="file://$MODULE_DIR$/a05/target" />
@@ -111,6 +115,8 @@
       <excludeFolder url="file://$MODULE_DIR$/a33/target" />
       <excludeFolder url="file://$MODULE_DIR$/a34/target" />
       <excludeFolder url="file://$MODULE_DIR$/a35/target" />
+      <excludeFolder url="file://$MODULE_DIR$/a36/target" />
+      <excludeFolder url="file://$MODULE_DIR$/a37/target" />
       <excludeFolder url="file://$MODULE_DIR$/b27/target" />
       <excludeFolder url="file://$MODULE_DIR$/b28/target" />
       <excludeFolder url="file://$MODULE_DIR$/b29/target" />
@@ -118,6 +124,8 @@
       <excludeFolder url="file://$MODULE_DIR$/b32/target" />
       <excludeFolder url="file://$MODULE_DIR$/b33/target" />
       <excludeFolder url="file://$MODULE_DIR$/b34/target" />
+      <excludeFolder url="file://$MODULE_DIR$/b36/target" />
+      <excludeFolder url="file://$MODULE_DIR$/b37/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

@@ -1,5 +1,5 @@
 [package]
-name = "a66"
+name = "a68"
 version = "0.1.0"
 edition = "2021"
 
@@ -7,4 +7,3 @@ edition = "2021"
 
 [dependencies]
 proconio = "0.4.5"
-ac-library-rs = "0.1.1"

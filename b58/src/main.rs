@@ -1,34 +1,31 @@
-use std::cmp::min;
-
-use ac_library::{Max, Segtree};
+use ac_library::{Min, Segtree};
 use proconio::input;
-
 use superslice::Ext;
 
 fn main() {
     input! {
         n:usize,
-        l:usize,
-        r:usize,
-        x:[usize; n],
+        l:isize,
+        r:isize,
+        x:[isize; n],
     }
-    let mut st = Segtree::<Max<usize>>::new(n + 1);
-    for i in 0..n {
-        st.set(i, x[i]);
-    }
+    let mut st = Segtree::<Min<usize>>::new(n + 1);
+    let mut dp = vec![usize::MAX; n];
+    dp[0] = 0;
+    st.set(0, 0);
+    for i in 1..n {
+        if x[i] < l {
+            continue;
+        }
+        let posl = x.lower_bound(&(&x[i] - r));
+        let posr = x.upper_bound(&(&x[i] - l));
 
-    let mut ans = 0usize;
-    let mut height = 0usize;
-    while height < x[n - 1] {
-        let l = height + l;
-        let r = min(height + r, x[n - 1]);
-
-        let m = st.prod(l..=r);
-        if m > 0 {
-            height += m;
-            ans += 1;
+        let m = st.prod(posl..posr);
+        if m != usize::MAX {
+            st.set(i, m + 1);
+            dp[i] = m + 1;
         }
     }
 
-    println!("{}", ans);
+    println!("{}", dp[n - 1]);
 }
